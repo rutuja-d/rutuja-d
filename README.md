@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Rutuja Dharankar. I am currently in 3rd year pursuing Computer Science. I have good problem solving skills with knowledge of Data Structures, Algorithms and Object Oriented Programming. I have basic knowledge of HTML and CSS. I am always curious to learn new things and explore the field of Machine Learning.
+I am Rutuja Dharankar. I am currently in 3rd year pursuing Computer Science. I have good problem solving skills with good understanding of Data Structures, Algorithms and Object Oriented Programming. I have basic knowledge of HTML and CSS. I am always curious to learn new things and explore the field of Machine Learning.
 
 * 🌱 I’m currently learning **Machine Learning** and **Web Development**.
 
